@@ -1,7 +1,6 @@
-Data Dictionary for CES4.0FINAL_results Data Spreadsheet,
 Variable Name,Description
 Census Tract,Census Tract ID from 2010 Census
-Total Population,2019 ACS population estimates in census tracts 
+Total Population,2019 ACS population estimates in census tracts
 California County,California county that the census tract falls within
 ZIP,Postal ZIP Code that the census tract falls within
 Approximate Location,"Approximate city where each census tract is located based on US Census Incorporated Places (2020, Cities), US Census Designated Places, (2020, Designated Places), and the CA Department of Tax and Fees City and County Boundaries and City Annexations (2021, Unincorporated Areas) boundary files. All tracts that did not fall within one of these boundaries were assigned ""unincorporated county area"" based on that tract's county. This is for reference purposes only and should not be used to determine whether a census tract falls within a city or town boundary."
@@ -9,8 +8,8 @@ Longitude,Longitude of the centroid of the census tract
 Latitude,Latitude of the centroid of the census tract
 CES 4.0 Score,"CalEnviroScreen Score, Pollution Score multiplied by Population Characteristics Score"
 CES 4.0 Percentile,Percentile of the CalEnviroScreen score
-CES 4.0 Percentile Range,"Percentile of the CalEnviroScreen score, grouped by 5% increments "
-Ozone,Amount of daily maximum 8 hour Ozone concentration 
+CES 4.0 Percentile Range,"Percentile of the CalEnviroScreen score, grouped by 5% increments"
+Ozone,Amount of daily maximum 8 hour Ozone concentration
 Ozone Pctl,Ozone percentile
 PM2.5,Annual mean PM 2.5 concentrations
 PM2.5 Pctl,PM2.5 percentile
@@ -63,15 +62,15 @@ Variable Name,Description
 Census Tract,Census Tract ID from 2010 Census
 CES 4.0 Score,"CalEnviroScreen Score, Pollution Score multiplied by Population Characteristics Score"
 CES 4.0 Percentile,Percentile of the CalEnviroScreen score
-CES 4.0 Percentile Range,"Percentile of the CalEnviroScreen score, grouped by 5% increments "
+CES 4.0 Percentile Range,"Percentile of the CalEnviroScreen score, grouped by 5% increments"
 California County,California county that the census tract falls within
-Total Population,2019 ACS population estimates in census tracts 
+Total Population,2019 ACS population estimates in census tracts
 Children < 10 years (%),2019 ACS population estimates of the percent per census tract of children under 10 years old
-Pop 10-64 years (%),2019 ACS population estimates of the percent per census tract of people between 10 and 64 years old 
-Elderly > 64 years (%),2019 ACS population estimates of the percent per census tract of elderly 65 years and older 
-Hispanic (%),2019 ACS population estimates of the percent per census tract of those who identify as Hispanic or Latino 
+Pop 10-64 years (%),2019 ACS population estimates of the percent per census tract of people between 10 and 64 years old
+Elderly > 64 years (%),2019 ACS population estimates of the percent per census tract of elderly 65 years and older
+Hispanic (%),2019 ACS population estimates of the percent per census tract of those who identify as Hispanic or Latino
 White (%),2019 ACS population estimates of the percent per census tract of those who identify as non-Hispanic white
-African American (%),2019 ACS population estimates of the percent per census tract of those who identify as non-Hispanic African American or black 
+African American (%),2019 ACS population estimates of the percent per census tract of those who identify as non-Hispanic African American or black
 Native American (%),2019 ACS population estimates of the percent per census tract of those who identify as non-Hispanic Native American
 Asian American (%),2019 ACS population estimates of the percent per census tract of those who identify as non-Hispanic Asian or Pacific Islander
-Other/Multiple (%),"2019 ACS population estimates of the percent per census tract of those who identify as non-Hispanic ""other"" or as multiple races "
+Other/Multiple (%),"2019 ACS population estimates of the percent per census tract of those who identify as non-Hispanic ""other"" or as multiple races"
